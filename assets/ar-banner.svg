@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="230" viewBox="0 0 1100 230">
+<rect width="1100" height="230" rx="22" fill="#0D1117"/>
+<circle cx="940" cy="80" r="160" fill="#C4161C" opacity=".06"/>
+<path d="M70 174L120 62L171 174M91 130H151M205 174V62H250C290 62 305 84 305 111C305 138 290 155 250 155H205M252 155L310 174" fill="none" stroke="#C4161C" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="355" y="104" fill="#F0F6FC" font-family="Arial,Helvetica,sans-serif" font-size="48" font-weight="700">ABDUL RAFAY</text>
+<text x="358" y="143" fill="#8B949E" font-family="monospace" font-size="18">software engineer · builder · computer science</text>
+<text x="358" y="177" fill="#C4161C" font-family="monospace" font-size="14">AI · BACKEND · SYSTEMS · EDGE</text>
+</svg>
