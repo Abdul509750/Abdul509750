@@ -22,14 +22,14 @@
 
 I'm a **Computer Science student at FAST NUCES** who enjoys taking an idea from *“what if?”* to something people can actually use.
 
-My interests are around:
+My core interests include:
 
-- 🤖 **AI & multi-agent systems** — especially agentic concepts and CrewAI
-- 🌐 **Distributed systems** — a concept I'm actively fascinated by
-- 📡 **Edge computing** — pushing computation closer to where data is produced
-- ⚙️ **Backend engineering** — APIs, databases, infrastructure and production systems
-- 🧩 **Algorithms & problem solving**
-- 🖥️ **Desktop & systems programming**
+- **AI & multi-agent systems**, especially agentic concepts and CrewAI
+- **Distributed systems**, a concept I'm actively fascinated by
+- **Edge computing**, pushing computation closer to where data is produced
+- **Backend engineering**, focusing on APIs, databases, infrastructure, and production systems
+- **Algorithms & problem solving**
+- **Desktop & systems programming**
 
 </td>
 <td width="42%" valign="top">
