@@ -1,10 +1,6 @@
 <div align="center">
 
-<a href="https://github.com/Abdul509750">
-<img src="assets/ar-banner.svg" width="94%" alt="Abdul Rafay"/>
-</a>
-
-<br><br>
+# Abdul Rafay
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2600&pause=900&color=C4161C&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Abdul+Rafay!;I+build+software+that+ships.;Exploring+AI%2C+systems+%26+edge+computing.;Computer+Science+%40+FAST+NUCES." alt="Typing intro"/>
 
@@ -12,6 +8,14 @@
 
 <a href="https://github.com/Abdul509750"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="mailto:i240824@isb.nu.edu.pk"><img src="https://img.shields.io/badge/Email-C4161C?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/abdul-rafay"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
+<br><br>
+
+### 🏢 Organizations
+
+<img src="https://img.shields.io/badge/FAST_NUCES-000000?style=for-the-badge&logo=internet-explorer&logoColor=white"/>
+<img src="https://img.shields.io/badge/Coca_Cola-F40009?style=for-the-badge&logo=coca-cola&logoColor=white"/>
 
 <br><br>
 
