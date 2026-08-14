@@ -14,7 +14,7 @@
 
 <img src="assets/line.svg" width="100%" alt="separator"/>
 
-## 👋 About Me
+## About Me
 
 <table>
 <tr>
@@ -60,15 +60,15 @@ fixing   █████████░ 90%
 
 <img src="assets/line.svg" width="100%" alt="separator"/>
 
-## 🚀 What I'm Building
+## What I'm Building
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🔴 DistributionLife
+### DistributionLife
 
-**Production SaaS · Private 🔒**
+**Production SaaS · Private**
 
 A real-world software platform for distribution businesses.
 
@@ -79,7 +79,7 @@ Built for actual customers and production workflows.
 </td>
 <td width="50%" valign="top">
 
-### ⚡ FASTCloud
+### FASTCloud
 
 **Bot-managed knowledge platform**
 
@@ -93,13 +93,13 @@ Started from an exploration of distributed computing and evolved into a Wikipedi
 </tr>
 </table>
 
-### 🧠 Things I'm Exploring
+### Things I'm Exploring
 
 `CrewAI` · `Multi-Agent Systems` · `Distributed Systems` · `Edge Computing` · `AI Applications`
 
 <img src="assets/line.svg" width="100%" alt="separator"/>
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 
@@ -119,7 +119,7 @@ Started from an exploration of distributed computing and evolved into a Wikipedi
 <img src="https://skillicons.dev/icons?i=vscode,idea,pycharm" height="52"/>
 </div>
 
-### ☁️ Infrastructure
+### Infrastructure
 
 <div>
 <img src="https://skillicons.dev/icons?i=hetzner" height="52"/>
@@ -129,7 +129,7 @@ Started from an exploration of distributed computing and evolved into a Wikipedi
 
 <img src="assets/line.svg" width="100%" alt="separator"/>
 
-## 💻 Problem Solving
+## Problem Solving
 
 <div align="center">
 
@@ -145,7 +145,7 @@ Started from an exploration of distributed computing and evolved into a Wikipedi
 
 <img src="assets/line.svg" width="100%" alt="separator"/>
 
-## 📊 GitHub
+## GitHub
 
 <div align="center">
 
@@ -165,7 +165,7 @@ Started from an exploration of distributed computing and evolved into a Wikipedi
 
 <img src="assets/line.svg" width="100%" alt="separator"/>
 
-## 🐍 Contribution Trail
+## Contribution Trail
 
 <div align="center">
 
@@ -175,7 +175,7 @@ Started from an exploration of distributed computing and evolved into a Wikipedi
 
 <img src="assets/line.svg" width="100%" alt="separator"/>
 
-## 📌 Featured Repositories
+## Featured Repositories
 
 <p align="center">
 
@@ -202,34 +202,34 @@ Started from an exploration of distributed computing and evolved into a Wikipedi
 <img src="assets/line.svg" width="100%" alt="separator"/>
 
 <details open>
-<summary><h2>🏆 More About Me</h2></summary>
+<summary><h2>More About Me</h2></summary>
 
 <br>
 
 ```text
-🎓 FAST NUCES
+FAST NUCES
    Computer Science
 
-🔭 BUILDING
+BUILDING
    Production software & AI projects
 
-🧠 INTERESTED IN
+INTERESTED IN
    Multi-agent systems
    Distributed systems
    Edge computing
    Backend engineering
 
-☁️ INFRASTRUCTURE
+INFRASTRUCTURE
    Linux · PostgreSQL · Docker · Hetzner
 
-⚡ FUN FACT
+FUN FACT
    I enjoy taking a weird idea seriously enough to build it.
 ```
 
 </details>
 
 <details>
-<summary><h2>📚 Projects & Experiments</h2></summary>
+<summary><h2>Projects & Experiments</h2></summary>
 
 <br>
 
@@ -252,7 +252,7 @@ Check out the repositories below or browse the full collection:
 
 ### I love building things I haven't built before.
 
-**If you're working on something interesting, say hi.** 👋
+**If you're working on something interesting, say hi.**
 
 <br>
 
