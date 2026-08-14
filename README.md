@@ -156,9 +156,9 @@ Started from an exploration of distributed computing and evolved into a Wikipedi
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Abdul509750&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F0F6FC&text_color=8B949E&icon_color=C4161C&rank_icon=github" height="170"/>
+<img src="https://github-readme-stats-one-bice.vercel.app/api?username=Abdul509750&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F0F6FC&text_color=8B949E&icon_color=C4161C&rank_icon=github" height="170"/>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Abdul509750&layout=donut&hide_border=true&bg_color=0D1117&title_color=F0F6FC&text_color=8B949E" height="170"/>
+<img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Abdul509750&layout=donut&hide_border=true&bg_color=0D1117&title_color=F0F6FC&text_color=8B949E" height="170"/>
 
 <br><br>
 
@@ -187,21 +187,21 @@ Started from an exploration of distributed computing and evolved into a Wikipedi
 <p align="center">
 
 <a href="https://github.com/Abdul509750/FASTCloud_AlphaVersion">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Abdul509750&repo=FASTCloud_AlphaVersion&theme=dark&hide_border=true&bg_color=0D1117&title_color=F0F6FC&text_color=8B949E&icon_color=C4161C" width="45%"/>
+<img src="https://github-readme-stats-one-bice.vercel.app/api/pin/?username=Abdul509750&repo=FASTCloud_AlphaVersion&theme=dark&hide_border=true&bg_color=0D1117&title_color=F0F6FC&text_color=8B949E&icon_color=C4161C" width="45%"/>
 </a>
 
 <a href="https://github.com/Abdul509750/LangChain_Model">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Abdul509750&repo=LangChain_Model&theme=dark&hide_border=true&bg_color=0D1117&title_color=F0F6FC&text_color=8B949E&icon_color=C4161C" width="45%"/>
+<img src="https://github-readme-stats-one-bice.vercel.app/api/pin/?username=Abdul509750&repo=LangChain_Model&theme=dark&hide_border=true&bg_color=0D1117&title_color=F0F6FC&text_color=8B949E&icon_color=C4161C" width="45%"/>
 </a>
 
 <br>
 
 <a href="https://github.com/Abdul509750/MindCity_AiModel">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Abdul509750&repo=MindCity_AiModel&theme=dark&hide_border=true&bg_color=0D1117&title_color=F0F6FC&text_color=8B949E&icon_color=C4161C" width="45%"/>
+<img src="https://github-readme-stats-one-bice.vercel.app/api/pin/?username=Abdul509750&repo=MindCity_AiModel&theme=dark&hide_border=true&bg_color=0D1117&title_color=F0F6FC&text_color=8B949E&icon_color=C4161C" width="45%"/>
 </a>
 
 <a href="https://github.com/Abdul509750/CodeForces">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Abdul509750&repo=CodeForces&theme=dark&hide_border=true&bg_color=0D1117&title_color=F0F6FC&text_color=8B949E&icon_color=C4161C" width="45%"/>
+<img src="https://github-readme-stats-one-bice.vercel.app/api/pin/?username=Abdul509750&repo=CodeForces&theme=dark&hide_border=true&bg_color=0D1117&title_color=F0F6FC&text_color=8B949E&icon_color=C4161C" width="45%"/>
 </a>
 
 </p>
