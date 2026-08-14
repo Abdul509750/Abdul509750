@@ -12,7 +12,7 @@
 
 </div>
 
-<img src="assets/line.svg" width="100%" alt="separator"/>
+<br><br>
 
 ## About Me
 
@@ -34,20 +34,17 @@ My core interests include:
 </td>
 <td width="42%" valign="top">
 
-```text
+```bash
 $ whoami
-
 Abdul Rafay
 
 $ focus
-
 AI
 Backend
 Systems
 Edge
 
 $ status
-
 building ██████████ 100%
 learning ████████░░ 80%
 breaking ██████░░░░ 60%
@@ -58,7 +55,7 @@ fixing   █████████░ 90%
 </tr>
 </table>
 
-<img src="assets/line.svg" width="100%" alt="separator"/>
+<br><br>
 
 ## What I'm Building
 
@@ -101,33 +98,15 @@ Started from an exploration of distributed computing and evolved into a Wikipedi
 
 ## Tech Stack
 
-### Languages
-
-<div>
-<img src="https://skillicons.dev/icons?i=python,cpp,java,bash" height="52"/>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,bash&perline=10" height="52" alt="Languages"/><br><br>
+  <img src="https://skillicons.dev/icons?i=fastapi,postgres,docker,linux,git,github&perline=10" height="52" alt="Backend & Infra"/><br><br>
+  <img src="https://skillicons.dev/icons?i=vscode,idea,pycharm,hetzner&perline=10" height="52" alt="Tools & Hosting"/>
+  
+  <p><sub>Currently running production workloads on Hetzner infrastructure.</sub></p>
 </div>
 
-### Backend · Data · Infrastructure
-
-<div>
-<img src="https://skillicons.dev/icons?i=fastapi,postgres,docker,linux,git,github" height="52"/>
-</div>
-
-### Development
-
-<div>
-<img src="https://skillicons.dev/icons?i=vscode,idea,pycharm" height="52"/>
-</div>
-
-### Infrastructure
-
-<div>
-<img src="https://skillicons.dev/icons?i=hetzner" height="52"/>
-</div>
-
-<p><sub>Currently running production workloads on Hetzner infrastructure.</sub></p>
-
-<img src="assets/line.svg" width="100%" alt="separator"/>
+<br><br>
 
 ## Problem Solving
 
@@ -199,32 +178,27 @@ Started from an exploration of distributed computing and evolved into a Wikipedi
 
 </p>
 
-<img src="assets/line.svg" width="100%" alt="separator"/>
+<br><br>
 
 <details open>
 <summary><h2>More About Me</h2></summary>
 
 <br>
 
-```text
-FAST NUCES
-   Computer Science
+**FAST NUCES**
+Computer Science
 
-BUILDING
-   Production software & AI projects
+**BUILDING**
+Production software & AI projects
 
-INTERESTED IN
-   Multi-agent systems
-   Distributed systems
-   Edge computing
-   Backend engineering
+**INTERESTED IN**
+Multi-agent systems, Distributed systems, Edge computing, Backend engineering
 
-INFRASTRUCTURE
-   Linux · PostgreSQL · Docker · Hetzner
+**INFRASTRUCTURE**
+Linux · PostgreSQL · Docker · Hetzner
 
-FUN FACT
-   I enjoy taking a weird idea seriously enough to build it.
-```
+**FUN FACT**
+I enjoy taking a weird idea seriously enough to build it.
 
 </details>
 
@@ -244,18 +218,12 @@ Check out the repositories below or browse the full collection:
 
 </details>
 
-<img src="assets/line.svg" width="100%" alt="separator"/>
+<br><br>
 
 <div align="center">
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="55">
 
 ### I love building things I haven't built before.
 
 **If you're working on something interesting, say hi.**
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=C4161C&height=90&section=footer" width="100%"/>
 
 </div>
