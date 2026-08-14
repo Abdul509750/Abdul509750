@@ -12,9 +12,9 @@
 
 </div>
 
-<img src="assets/line.svg" width="100%" alt="separator"/>
+<br><br>
 
-## 👋 About Me
+## About Me
 
 <table>
 <tr>
@@ -24,12 +24,12 @@ I'm a **Computer Science student at FAST NUCES** who enjoys taking an idea from 
 
 My interests are around:
 
-- 🤖 **AI & multi-agent systems** — especially agentic concepts and CrewAI
-- 🌐 **Distributed systems** — a concept I'm actively fascinated by
-- 📡 **Edge computing** — pushing computation closer to where data is produced
-- ⚙️ **Backend engineering** — APIs, databases, infrastructure and production systems
-- 🧩 **Algorithms & problem solving**
-- 🖥️ **Desktop & systems programming**
+- **AI & multi-agent systems**, especially agentic concepts and CrewAI
+- **Distributed systems**, a concept I'm actively fascinated by
+- **Edge computing**, pushing computation closer to where data is produced
+- **Backend engineering**, APIs, databases, infrastructure and production systems
+- **Algorithms & problem solving**
+- **Desktop & systems programming**
 
 </td>
 <td width="42%" valign="top">
@@ -58,17 +58,17 @@ fixing   █████████░ 90%
 </tr>
 </table>
 
-<img src="assets/line.svg" width="100%" alt="separator"/>
+<br><br>
 
-## 🚀 What I'm Building
+## What I'm Building
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🔴 DistributionLife
+### DistributionLife
 
-**Production SaaS · Private 🔒**
+**Production SaaS · Private**
 
 A real-world software platform for distribution businesses.
 
@@ -79,7 +79,7 @@ Built for actual customers and production workflows.
 </td>
 <td width="50%" valign="top">
 
-### ⚡ FASTCloud
+### FASTCloud
 
 **Bot-managed knowledge platform**
 
@@ -93,13 +93,13 @@ Started from an exploration of distributed computing and evolved into a Wikipedi
 </tr>
 </table>
 
-### 🧠 Things I'm Exploring
+### Things I'm Exploring
 
 `CrewAI` · `Multi-Agent Systems` · `Distributed Systems` · `Edge Computing` · `AI Applications`
 
-<img src="assets/line.svg" width="100%" alt="separator"/>
+<br><br>
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 
@@ -119,7 +119,7 @@ Started from an exploration of distributed computing and evolved into a Wikipedi
 <img src="https://skillicons.dev/icons?i=vscode,idea,pycharm" height="52"/>
 </div>
 
-### ☁️ Infrastructure
+### Infrastructure
 
 <div>
 <img src="https://skillicons.dev/icons?i=hetzner" height="52"/>
@@ -127,9 +127,9 @@ Started from an exploration of distributed computing and evolved into a Wikipedi
 
 <p><sub>Currently running production workloads on Hetzner infrastructure.</sub></p>
 
-<img src="assets/line.svg" width="100%" alt="separator"/>
+<br><br>
 
-## 💻 Problem Solving
+## Problem Solving
 
 <div align="center">
 
@@ -143,9 +143,9 @@ Started from an exploration of distributed computing and evolved into a Wikipedi
 
 </div>
 
-<img src="assets/line.svg" width="100%" alt="separator"/>
+<br><br>
 
-## 📊 GitHub
+## GitHub
 
 <div align="center">
 
@@ -163,9 +163,9 @@ Started from an exploration of distributed computing and evolved into a Wikipedi
 
 </div>
 
-<img src="assets/line.svg" width="100%" alt="separator"/>
+<br><br>
 
-## 🐍 Contribution Trail
+## Contribution Trail
 
 <div align="center">
 
@@ -173,9 +173,9 @@ Started from an exploration of distributed computing and evolved into a Wikipedi
 
 </div>
 
-<img src="assets/line.svg" width="100%" alt="separator"/>
+<br><br>
 
-## 📌 Featured Repositories
+## Featured Repositories
 
 <p align="center">
 
@@ -199,37 +199,37 @@ Started from an exploration of distributed computing and evolved into a Wikipedi
 
 </p>
 
-<img src="assets/line.svg" width="100%" alt="separator"/>
+<br><br>
 
 <details open>
-<summary><h2>🏆 More About Me</h2></summary>
+<summary><h2>More About Me</h2></summary>
 
 <br>
 
 ```text
-🎓 FAST NUCES
+FAST NUCES
    Computer Science
 
-🔭 BUILDING
+BUILDING
    Production software & AI projects
 
-🧠 INTERESTED IN
+INTERESTED IN
    Multi-agent systems
    Distributed systems
    Edge computing
    Backend engineering
 
-☁️ INFRASTRUCTURE
+INFRASTRUCTURE
    Linux · PostgreSQL · Docker · Hetzner
 
-⚡ FUN FACT
+FUN FACT
    I enjoy taking a weird idea seriously enough to build it.
 ```
 
 </details>
 
 <details>
-<summary><h2>📚 Projects & Experiments</h2></summary>
+<summary><h2>Projects & Experiments</h2></summary>
 
 <br>
 
@@ -244,7 +244,7 @@ Check out the repositories below or browse the full collection:
 
 </details>
 
-<img src="assets/line.svg" width="100%" alt="separator"/>
+<br><br>
 
 <div align="center">
 
@@ -252,7 +252,7 @@ Check out the repositories below or browse the full collection:
 
 ### I love building things I haven't built before.
 
-**If you're working on something interesting, say hi.** 👋
+**If you're working on something interesting, say hi.**
 
 <br>
 
