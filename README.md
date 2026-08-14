@@ -10,15 +10,6 @@
 <a href="mailto:i240824@isb.nu.edu.pk"><img src="https://img.shields.io/badge/Email-C4161C?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://linkedin.com/in/abdul-rafay"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
-<br><br>
-
-### 🏢 Organizations
-
-<img src="https://img.shields.io/badge/FAST_NUCES-000000?style=for-the-badge&logo=internet-explorer&logoColor=white"/>
-<img src="https://img.shields.io/badge/Coca_Cola-F40009?style=for-the-badge&logo=coca-cola&logoColor=white"/>
-
-<br><br>
-
 <img src="https://komarev.com/ghpvc/?username=Abdul509750&label=PROFILE%20VIEWS&color=C4161C&style=flat-square" alt="profile views"/>
 
 </div>
