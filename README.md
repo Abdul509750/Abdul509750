@@ -12,9 +12,9 @@
 
 </div>
 
-<br><br>
+<img src="assets/line.svg" width="100%" alt="separator"/>
 
-## About Me
+## 👋 About Me
 
 <table>
 <tr>
@@ -22,29 +22,32 @@
 
 I'm a **Computer Science student at FAST NUCES** who enjoys taking an idea from *“what if?”* to something people can actually use.
 
-My core interests include:
+My interests are around:
 
-- **AI & multi-agent systems**, especially agentic concepts and CrewAI
-- **Distributed systems**, a concept I'm actively fascinated by
-- **Edge computing**, pushing computation closer to where data is produced
-- **Backend engineering**, focusing on APIs, databases, infrastructure, and production systems
-- **Algorithms & problem solving**
-- **Desktop & systems programming**
+- 🤖 **AI & multi-agent systems** — especially agentic concepts and CrewAI
+- 🌐 **Distributed systems** — a concept I'm actively fascinated by
+- 📡 **Edge computing** — pushing computation closer to where data is produced
+- ⚙️ **Backend engineering** — APIs, databases, infrastructure and production systems
+- 🧩 **Algorithms & problem solving**
+- 🖥️ **Desktop & systems programming**
 
 </td>
 <td width="42%" valign="top">
 
-```bash
+```text
 $ whoami
+
 Abdul Rafay
 
 $ focus
+
 AI
 Backend
 Systems
 Edge
 
 $ status
+
 building ██████████ 100%
 learning ████████░░ 80%
 breaking ██████░░░░ 60%
@@ -55,17 +58,17 @@ fixing   █████████░ 90%
 </tr>
 </table>
 
-<br><br>
+<img src="assets/line.svg" width="100%" alt="separator"/>
 
-## What I'm Building
+## 🚀 What I'm Building
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### DistributionLife
+### 🔴 DistributionLife
 
-**Production SaaS · Private**
+**Production SaaS · Private 🔒**
 
 A real-world software platform for distribution businesses.
 
@@ -76,7 +79,7 @@ Built for actual customers and production workflows.
 </td>
 <td width="50%" valign="top">
 
-### FASTCloud
+### ⚡ FASTCloud
 
 **Bot-managed knowledge platform**
 
@@ -90,25 +93,43 @@ Started from an exploration of distributed computing and evolved into a Wikipedi
 </tr>
 </table>
 
-### Things I'm Exploring
+### 🧠 Things I'm Exploring
 
 `CrewAI` · `Multi-Agent Systems` · `Distributed Systems` · `Edge Computing` · `AI Applications`
 
 <img src="assets/line.svg" width="100%" alt="separator"/>
 
-## Tech Stack
+## 🛠️ Tech Stack
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,bash&perline=10" height="52" alt="Languages"/><br><br>
-  <img src="https://skillicons.dev/icons?i=fastapi,postgres,docker,linux,git,github&perline=10" height="52" alt="Backend & Infra"/><br><br>
-  <img src="https://skillicons.dev/icons?i=vscode,idea,pycharm,hetzner&perline=10" height="52" alt="Tools & Hosting"/>
-  
-  <p><sub>Currently running production workloads on Hetzner infrastructure.</sub></p>
+### Languages
+
+<div>
+<img src="https://skillicons.dev/icons?i=python,cpp,java,bash" height="52"/>
 </div>
 
-<br><br>
+### Backend · Data · Infrastructure
 
-## Problem Solving
+<div>
+<img src="https://skillicons.dev/icons?i=fastapi,postgres,docker,linux,git,github" height="52"/>
+</div>
+
+### Development
+
+<div>
+<img src="https://skillicons.dev/icons?i=vscode,idea,pycharm" height="52"/>
+</div>
+
+### ☁️ Infrastructure
+
+<div>
+<img src="https://skillicons.dev/icons?i=hetzner" height="52"/>
+</div>
+
+<p><sub>Currently running production workloads on Hetzner infrastructure.</sub></p>
+
+<img src="assets/line.svg" width="100%" alt="separator"/>
+
+## 💻 Problem Solving
 
 <div align="center">
 
@@ -124,7 +145,7 @@ Started from an exploration of distributed computing and evolved into a Wikipedi
 
 <img src="assets/line.svg" width="100%" alt="separator"/>
 
-## GitHub
+## 📊 GitHub
 
 <div align="center">
 
@@ -144,7 +165,7 @@ Started from an exploration of distributed computing and evolved into a Wikipedi
 
 <img src="assets/line.svg" width="100%" alt="separator"/>
 
-## Contribution Trail
+## 🐍 Contribution Trail
 
 <div align="center">
 
@@ -154,7 +175,7 @@ Started from an exploration of distributed computing and evolved into a Wikipedi
 
 <img src="assets/line.svg" width="100%" alt="separator"/>
 
-## Featured Repositories
+## 📌 Featured Repositories
 
 <p align="center">
 
@@ -178,32 +199,37 @@ Started from an exploration of distributed computing and evolved into a Wikipedi
 
 </p>
 
-<br><br>
+<img src="assets/line.svg" width="100%" alt="separator"/>
 
 <details open>
-<summary><h2>More About Me</h2></summary>
+<summary><h2>🏆 More About Me</h2></summary>
 
 <br>
 
-**FAST NUCES**
-Computer Science
+```text
+🎓 FAST NUCES
+   Computer Science
 
-**BUILDING**
-Production software & AI projects
+🔭 BUILDING
+   Production software & AI projects
 
-**INTERESTED IN**
-Multi-agent systems, Distributed systems, Edge computing, Backend engineering
+🧠 INTERESTED IN
+   Multi-agent systems
+   Distributed systems
+   Edge computing
+   Backend engineering
 
-**INFRASTRUCTURE**
-Linux · PostgreSQL · Docker · Hetzner
+☁️ INFRASTRUCTURE
+   Linux · PostgreSQL · Docker · Hetzner
 
-**FUN FACT**
-I enjoy taking a weird idea seriously enough to build it.
+⚡ FUN FACT
+   I enjoy taking a weird idea seriously enough to build it.
+```
 
 </details>
 
 <details>
-<summary><h2>Projects & Experiments</h2></summary>
+<summary><h2>📚 Projects & Experiments</h2></summary>
 
 <br>
 
@@ -218,12 +244,18 @@ Check out the repositories below or browse the full collection:
 
 </details>
 
-<br><br>
+<img src="assets/line.svg" width="100%" alt="separator"/>
 
 <div align="center">
 
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="55">
+
 ### I love building things I haven't built before.
 
-**If you're working on something interesting, say hi.**
+**If you're working on something interesting, say hi.** 👋
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=C4161C&height=90&section=footer" width="100%"/>
 
 </div>
