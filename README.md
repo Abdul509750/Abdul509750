@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2600&pause=900&color=C4161C&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Abdul+Rafay!;I+build+software+that+ships.;Exploring+AI%2C+systems+%26+edge+computing.;Computer+Science+%40+FAST+NUCES." alt="Typing intro"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2600&pause=900&color=C4161C&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Abdul+Rafay!;Exploring+AI%2C+systems+%26+edge+computing.;Computer+Science+%40+FAST+NUCES." alt="Typing intro"/>
 
 <br>
 
@@ -44,7 +44,7 @@ $ focus
 AI
 Backend
 Systems
-Edge
+Edge Computing
 
 $ status
 
@@ -68,7 +68,7 @@ fixing   █████████░ 90%
 
 ### DistributionLife
 
-**Production SaaS · Private**
+**Production SaaS - Private**
 
 A real-world software platform for distribution businesses.
 
@@ -139,7 +139,7 @@ Started from an exploration of distributed computing and evolved into a Wikipedi
 
 <br><br>
 
-**C++ · Data Structures · Algorithms · Competitive Programming**
+**Algorithms · Competitive Programming**
 
 </div>
 
